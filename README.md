@@ -6,7 +6,7 @@
 
 ## :blue_book: Objetivo
 
-O objetivo desse exercício é fundamentar através da prática os conceitos sobre Objeto usando Java.
+O objetivo desse exercício é fundamentar através da prática os conceitos sobre Objetos usando Java.
 
 <br>
 
