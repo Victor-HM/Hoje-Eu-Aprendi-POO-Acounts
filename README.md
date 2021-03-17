@@ -1,7 +1,6 @@
-# :books: Hoje eu aprendi - Matriz
+# :books: Hoje eu aprendi - Objetos
 <p>Meu primeiro exercício sobre Objetos</p>
 
-<br>
 <br>
 
 ## :blue_book: Objetivo
